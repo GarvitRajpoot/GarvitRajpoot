@@ -316,7 +316,7 @@ Current Goal:
 
 <tr>
 
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 <div align="center">
 
@@ -340,11 +340,11 @@ Current Goal:
 
 </td>
 
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 <div align="center">
 
-# 📊 FoodTrends Analytics
+# 📊 FoodTrends
 
 </div>
 
@@ -364,11 +364,7 @@ Current Goal:
 
 </td>
 
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 <div align="center">
 
@@ -388,30 +384,6 @@ Current Goal:
 <p align="center">
 <img src="https://img.shields.io/badge/React-9D4EDD?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/UI/UX-C77DFF?style=for-the-badge"/>
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<div align="center">
-
-# 🌦 Weather Prediction
-
-</div>
-
-### ⚡ Features
-
-* Forecast Analytics
-* Crop Suggestions
-* Weather Intelligence
-* Smart Recommendations
-
-<br>
-
-<p align="center">
-<img src="https://img.shields.io/badge/MachineLearning-5A189A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Visualization-C77DFF?style=for-the-badge"/>
 </p>
 
 </td>
