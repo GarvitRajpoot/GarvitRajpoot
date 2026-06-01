@@ -1,140 +1,209 @@
 <div align="center">
-  
-  <!-- Animated Purplish Gradient Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4B0082,8A2BE2,9400D3&height=200&section=header&text=Garvit%20Rajpoot&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20CSE%20(Data%20Science)%20%7C%20Gen%20AI%20Professional&descAlignY=61&descAlign=62&descSize=20" alt="Animated Header" />
 
-  <br><br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=09090b,3A0CA3,7209B7,4361ee&height=180&section=header&text=GARVIT%20RAJPOOT&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=45&desc=Data%20Scientist%20%7C%20Full-Stack%20Developer%20%7C%20Gen%20AI%20Engineer&descAlignY=70&descSize=16" alt="Garvit Rajpoot Header" />
 
-  <!-- Social Links -->
-  <a href="https://linkedin.com/in/garvitrajpoot" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=8A2BE2" alt="LinkedIn" />
-  </a>
-  <a href="mailto:rajpootgarvit@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=8A2BE2" alt="Email" />
-  </a>
+<br><br>
+
+<a href="https://www.linkedin.com/in/garvitrajpoot/" target="_blank">
+  <img src="https://img.shields.io/badge/LINKEDIN-09090b?style=for-the-badge&logo=linkedin&logoColor=4361ee" />
+</a>
+
+&nbsp;&nbsp;
+
+<a href="mailto:rajpootgarvit@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-09090b?style=for-the-badge&logo=gmail&logoColor=7209B7" />
+</a>
 
 </div>
 
 ---
 
-### 🚀 Architecting Data-Driven Solutions
+# 🔮 System Profile
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=8A2BE2&width=435&lines=Data+Science+Student+%40+SRMIST;Oracle+Certified+Gen+AI+Pro;Bridging+ML+and+Web+Development;Innovating+with+Data+%E2%9A%A1" alt="Typing SVG" />
-  </a>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=4361ee&center=true&vCenter=true&width=700&lines=B.Tech+CSE+(Data+Science)+at+SRMIST;Oracle+Certified+GenAI+Professional;Machine+Learning+%7C+Data+Science+%7C+Cloud;Building+Intelligent+Data+Pipelines;Developing+Agriculture+Tech+Solutions;Flame+On!+⚡" />
+
 </div>
 
-> **B.Tech CSE (Data Science)** student with a strong command of Python, SQL, and Power BI. I specialize in translating complex datasets into interactive, actionable web applications and dashboards. Whether analyzing massive data pipelines or deploying machine learning models, I approach every engineering challenge with the collaborative, high-octane energy of the Fantastic Four!
+<br>
+
+```text
+┌─────────────────────────────────────────────────────────────────────┐
+│  Passionate Data Science student focused on solving real-world      │
+│  problems using Machine Learning, AI, Cloud Computing and           │
+│  Full-Stack Development.                                            │
+│                                                                     │
+│  Interested in predictive analytics, intelligent automation,        │
+│  generative AI systems, and technology-driven agriculture.          │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+## 🎓 Education
+
+- **B.Tech in Computer Science & Engineering (Data Science)**
+- **SRM Institute of Science and Technology**
+- Expected Graduation: **2027**
+
+## 💡 Core Expertise
+
+- Machine Learning
+- Data Science
+- Generative AI
+- Full-Stack Development
+- Data Analytics
+- Cloud Computing
+- Database Systems
+
+## 🌱 Current Focus
+
+- AI-powered Agriculture Solutions
+- Weather Prediction Systems
+- Crop Recommendation Models
+- Computer Vision Applications
+- Intelligent Web Applications
+
+## ⚡ Team DNA
+
+As the designated **"Johnny Storm"** of my project teams, I bring high energy, creativity, and rapid execution to every project.
 
 ---
 
-### 🛠️ Tech Stack
+# 🛠️ Core Stack Matrix
 
-**Languages:**  
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=8A2BE2)
-![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=8A2BE2)
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=8A2BE2)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=8A2BE2)
-
-**Data & ML:**  
-![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=8A2BE2)
-![Power BI](https://img.shields.io/badge/Power_BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=8A2BE2)
-![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=8A2BE2)
-![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=8A2BE2)
-
-**Web Development:**  
-![HTML](https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5&logoColor=8A2BE2)
-![CSS](https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&logo=css3&logoColor=8A2BE2)
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=8A2BE2)
+| Category | Technologies |
+|-----------|-------------|
+| **Programming Languages** | C, C++, Python, JavaScript, SQL |
+| **Data Science & ML** | NumPy, Pandas, Scikit-Learn, TensorFlow, OpenCV |
+| **Web Development** | HTML5, CSS3, JavaScript, Flask |
+| **Databases** | MySQL, SQLite |
+| **Cloud & Tools** | Git, GitHub, VS Code, Google Cloud |
+| **Data Analytics** | Power BI, Excel |
+| **AI & GenAI** | Prompt Engineering, LLM Applications, Generative AI |
 
 ---
 
-### 💼 Professional Experience
+# 💼 Certifications
 
-<table>
-  <tr>
-    <td valign="top" width="100%">
-      <b>Infosys Springboard</b> | Data Analytics Virtual Intern <br>
-      <i>Dec 2025 - Mar 2026</i> <br><br>
-      • Analyzed the Zomato dataset to extract critical customer behavior insights. <br>
-      • Cleaned and processed large datasets using Python.<br>
-      • Built 7 interactive dashboards in Power BI to identify trends and improve business decision-making.
-    </td>
-  </tr>
-</table>
+- Oracle Certified Generative AI Professional
+- NPTEL Natural Language Processing
+- Introduction to Image Processing (Coursera)
+- Power BI Workshop (Coding Ninjas)
+- Data Analytics Webinar (IIT Kharagpur)
 
 ---
 
-### 📂 Featured Projects
+# 📂 Engineering Ecosystem (Projects)
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <b>Foodtrends: Understanding Customer Preferences</b><br>
-      <i>Power BI & SQL</i><br><br>
-      Built a BI solution analyzing customer preferences from 130,000 rows of food delivery data, ultimately creating 7 dashboards for improved decision insights.
-    </td>
-    <td valign="top" width="50%">
-      <b>NASA Farm Navigators</b><br>
-      <i>NASA APIs & Geospatial Data</i><br><br>
-      Designed an advanced solution for crop optimization and improved resource planning for farmers utilizing extensive geospatial data.
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <b>SmartAgro</b><br>
-      <i>AI & Full-Stack Web</i><br><br>
-      A comprehensive AI-powered agriculture system.
-    </td>
-    <td valign="top" width="50%">
-      <b>TaskNova</b><br>
-      <i>JavaScript</i><br><br>
-      A smart project management dashboard.
-    </td>
-  </tr>
-</table>
+## 🌦️ Agriculture Based Weather Prediction Model
+
+A smart weather prediction and crop recommendation platform featuring:
+
+- 7-Day Weather Forecast
+- Hourly Weather Analysis
+- Rainfall Prediction
+- Humidity Tracking
+- Crop Recommendation System
+- Open-Meteo API Integration
+- Machine Learning Backend
+
+**Tech Stack:** Flask, Python, HTML, CSS, JavaScript, SQLite
 
 ---
 
-### 🏆 Hackathons & Achievements
+## 🎵 AI Music Streaming Platform
 
-<table>
-  <tr>
-    <td valign="top" width="33%">
-      🥇 <b>NASA Space Apps 2025</b><br>
-      <i>Finalist</i>
-    </td>
-    <td valign="top" width="33%">
-      💻 <b>Microsoft Imagine Cup 2026</b><br>
-      <i>Selected Participant</i>
-    </td>
-    <td valign="top" width="33%">
-      🧠 <b>Amazon ML Challenge</b><br>
-      <i>Successfully Solved</i>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="33%">
-      🚀 <b>Smart India Hackathon 2025</b><br>
-      <i>Participant</i>
-    </td>
-    <td valign="top" width="33%">
-      🗄️ <b>MariaDB Hackathon 2025</b><br>
-      <i>Participant</i>
-    </td>
-    <td valign="top" width="33%">
-      🎓 <b>Oracle Gen AI</b><br>
-      <i>Certified Professional</i>
-    </td>
-  </tr>
-</table>
+Database Management System project featuring:
+
+- Music Library Management
+- User Authentication
+- Playlist Management
+- AI-Based Music Recommendations
+- Analytics Dashboard
+
+**Tech Stack:** SQL, Python, Recommendation Systems
 
 ---
 
-### 📊 GitHub Stats
+## 🎨 Grayscale to Color Image Conversion
+
+Deep Learning application that automatically converts grayscale images into colored versions.
+
+**Tech Stack:** Python, OpenCV, Deep Learning
+
+---
+
+## 🧩 Sudoku Solver Web App
+
+Interactive Sudoku Solver with:
+
+- Automatic Error Detection
+- Wrong Value Highlighting
+- Real-Time Validation
+- One-Click Solving
+
+**Tech Stack:** Flask, Python, HTML, CSS, JavaScript
+
+---
+
+# 🏆 Hackathon Deployments & Milestones
+
+### 🚀 Amazon HackOn Participant
+- Competitive Programming
+- Problem Solving
+- Algorithm Design
+
+### 🏅 Oracle GenAI Certified
+- Prompt Engineering
+- Large Language Models
+- AI Applications
+
+### 📊 Power BI Workshop
+- Dashboard Development
+- Data Visualization
+- Business Intelligence
+
+### 🎯 Data Analytics Webinar (IIT Kharagpur)
+- Data Analytics Fundamentals
+- Industry Insights
+- Career Development
+
+---
+
+# 📊 Real-Time Telemetry (GitHub Stats)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GarvitRajpoot&show_icons=true&bg_color=0D1117&title_color=8A2BE2&text_color=ffffff&icon_color=9400D3&border_color=333333&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarvitRajpoot&layout=compact&bg_color=0D1117&title_color=8A2BE2&text_color=ffffff&hide_border=true" alt="Top Languages" width="48%" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=garvitrajpoot&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garvitrajpoot&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=garvitrajpoot&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=garvitrajpoot&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Garvit%20Rajpoot-4361ee?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/garvitrajpoot/)
+
+[![Email](https://img.shields.io/badge/Email-rajpootgarvit@gmail.com-7209B7?style=for-the-badge&logo=gmail)](mailto:rajpootgarvit@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ "Turning Data Into Decisions, Ideas Into Products, and Challenges Into Opportunities."
+
 </div>
