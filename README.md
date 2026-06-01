@@ -30,7 +30,7 @@ AI Engineer • Data Science Enthusiast • Full Stack Developer
 
 # 💫 About Me
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ```yaml
 Name: Garvit Rajpoot
@@ -49,7 +49,7 @@ Focus:
   - Creative UI Systems
 
 Current Goal:
-  Building futuristic intelligent applications 🚀
+  Building futuristic intelligent systems 🚀
 ```
 
 ---
@@ -58,16 +58,16 @@ Current Goal:
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_LINK">
-  <img src="https://img.shields.io/badge/LinkedIn-6A00A8?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/garvitrajpoot/">
+<img src="https://img.shields.io/badge/LinkedIn-6A00A8?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:rajpootgarvit@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-9D4EDD?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-9D4EDD?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/GarvitRajpoot">
-  <img src="https://img.shields.io/badge/GitHub-C77DFF?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/GitHub-C77DFF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 </p>
@@ -82,39 +82,59 @@ Current Goal:
 
 <tr>
 
-<td width="220px" align="center">
+<td width="250px" align="center">
 
-### 🥇 Microsoft Imagine Cup
+<img src="https://img.shields.io/badge/Microsoft_Imagine_Cup-14001F?style=for-the-badge&logo=microsoft&logoColor=C77DFF"/>
 
-Selected Competitor
-**Silent Signal AI**
+<br><br>
 
-</td>
+<h3>🥇 Selected Competitor</h3>
 
-<td width="220px" align="center">
-
-### 🚀 NASA Space Apps
-
-Global Finalist
-**Farm Navigators**
+<p>
+Silent Signal AI
+</p>
 
 </td>
 
-<td width="220px" align="center">
+<td width="250px" align="center">
 
-### 🤖 Oracle Certification
+<img src="https://img.shields.io/badge/NASA_Space_Apps-240046?style=for-the-badge&logo=nasa&logoColor=C77DFF"/>
 
-Oracle Certified
-**Generative AI Professional**
+<br><br>
+
+<h3>🚀 Global Finalist</h3>
+
+<p>
+Farm Navigators
+</p>
 
 </td>
 
-<td width="220px" align="center">
+<td width="250px" align="center">
 
-### 💼 Infosys Internship
+<img src="https://img.shields.io/badge/Oracle_Generative_AI-3C096C?style=for-the-badge&logo=oracle&logoColor=C77DFF"/>
 
-Infosys Springboard
-**Power BI Analytics**
+<br><br>
+
+<h3>🤖 Oracle Certified</h3>
+
+<p>
+Generative AI Professional
+</p>
+
+</td>
+
+<td width="250px" align="center">
+
+<img src="https://img.shields.io/badge/Infosys_Springboard-5A189A?style=for-the-badge&logo=infosys&logoColor=C77DFF"/>
+
+<br><br>
+
+<h3>💼 Internship</h3>
+
+<p>
+Power BI Analytics
+</p>
 
 </td>
 
@@ -136,31 +156,49 @@ Infosys Springboard
 
 <td width="50%" valign="top">
 
-## 💼 Infosys Springboard Internship
+<div align="center">
 
-* Power BI dashboard development
-* Business intelligence analytics
-* Customer behavior insights
-* Data visualization systems
+# 💼 Infosys Internship
+
+</div>
+
+### ⚡ Responsibilities
+
+* Power BI Dashboard Development
+* Business Intelligence Analytics
+* Customer Insights
+* Data Visualization
 
 <br>
 
+<p align="center">
 <img src="https://img.shields.io/badge/PowerBI-6A00A8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Analytics-C77DFF?style=for-the-badge"/>
+</p>
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🤖 AI & ML Development
+<div align="center">
 
-* Machine Learning systems
-* Predictive analytics
-* Smart agriculture AI
-* Weather intelligence platforms
+# 🤖 AI & ML Development
+
+</div>
+
+### ⚡ Built Systems Using
+
+* Machine Learning
+* Predictive Analytics
+* Smart Agriculture AI
+* Weather Intelligence
 
 <br>
 
+<p align="center">
 <img src="https://img.shields.io/badge/AI-9D4EDD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine_Learning-C77DFF?style=for-the-badge"/>
+</p>
 
 </td>
 
@@ -170,31 +208,49 @@ Infosys Springboard
 
 <td width="50%" valign="top">
 
-## 🌐 Full Stack Development
+<div align="center">
 
-* React & Flask applications
-* REST APIs
-* MongoDB systems
-* Modern UI/UX dashboards
+# 🌐 Full Stack Development
+
+</div>
+
+### ⚡ Development Stack
+
+* React.js
+* Flask APIs
+* MongoDB Systems
+* Modern UI/UX
 
 <br>
 
-<img src="https://img.shields.io/badge/FullStack-C77DFF?style=for-the-badge"/>
+<p align="center">
+<img src="https://img.shields.io/badge/React-7B2CBF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Flask-C77DFF?style=for-the-badge"/>
+</p>
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🚀 Innovation & Hackathons
+<div align="center">
+
+# 🚀 Innovation & Hackathons
+
+</div>
+
+### ⚡ Participations
 
 * NASA Space Apps
 * Microsoft Imagine Cup
-* AI competitions
-* Innovation events
+* AI Competitions
+* Innovation Events
 
 <br>
 
-<img src="https://img.shields.io/badge/Hackathons-7B2CBF?style=for-the-badge"/>
+<p align="center">
+<img src="https://img.shields.io/badge/Hackathons-9D4EDD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Innovation-C77DFF?style=for-the-badge"/>
+</p>
 
 </td>
 
@@ -218,12 +274,12 @@ Infosys Springboard
 
 <br><br>
 
-<img src="https://img.shields.io/badge/NumPy-240046?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Pandas-3C096C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Keras-7B2CBF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/XGBoost-9D4EDD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/HuggingFace-C77DFF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangChain-5A189A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NumPy-14001F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pandas-240046?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Keras-3C096C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/XGBoost-5A189A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HuggingFace-7B2CBF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-9D4EDD?style=for-the-badge"/>
 
 ---
 
@@ -239,9 +295,9 @@ Infosys Springboard
 
 <br>
 
-<img src="https://img.shields.io/badge/PowerBI-6A00A8?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data_Analytics-9D4EDD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Visualization-C77DFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PowerBI-240046?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data_Analytics-3C096C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Visualization-5A189A?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Business_Intelligence-7B2CBF?style=for-the-badge"/>
 
 ---
@@ -274,35 +330,49 @@ Infosys Springboard
 
 <td width="50%" valign="top">
 
-## 🌾 SmartAgro
+<div align="center">
 
-AI-powered agriculture intelligence platform featuring:
+# 🌾 SmartAgro
 
-* Crop recommendation
-* Weather forecasting
-* Smart farming analytics
-* AI-powered insights
+</div>
+
+### ⚡ Features
+
+* Crop Recommendation
+* Weather Forecasting
+* Smart Farming Analytics
+* AI-powered Insights
 
 <br>
 
-<img src="https://img.shields.io/badge/AI-Powered-9D4EDD?style=for-the-badge"/>
+<p align="center">
+<img src="https://img.shields.io/badge/OpenMeteo_API-5A189A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI-Powered-C77DFF?style=for-the-badge"/>
+</p>
 
 </td>
 
 <td width="50%" valign="top">
 
-## 📊 FoodTrends Analytics
+<div align="center">
 
-Business intelligence dashboard featuring:
+# 📊 FoodTrends Analytics
 
-* Power BI analytics
-* SQL insights
-* Customer visualization
-* Interactive dashboards
+</div>
+
+### ⚡ Features
+
+* Power BI Dashboards
+* SQL Analytics
+* Customer Visualization
+* Interactive Insights
 
 <br>
 
-<img src="https://img.shields.io/badge/PowerBI-C77DFF?style=for-the-badge"/>
+<p align="center">
+<img src="https://img.shields.io/badge/PowerBI-7B2CBF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/130K+_Records-C77DFF?style=for-the-badge"/>
+</p>
 
 </td>
 
@@ -312,35 +382,49 @@ Business intelligence dashboard featuring:
 
 <td width="50%" valign="top">
 
-## 📋 TaskNova
+<div align="center">
 
-Modern productivity management platform:
+# 📋 TaskNova
 
-* Task workflows
-* Dashboard systems
-* Productivity optimization
+</div>
+
+### ⚡ Features
+
+* Productivity Workflows
+* Dashboard Systems
+* Task Optimization
 * Modern UI/UX
 
 <br>
 
-<img src="https://img.shields.io/badge/React-7B2CBF?style=for-the-badge"/>
+<p align="center">
+<img src="https://img.shields.io/badge/React-9D4EDD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/UI/UX-C77DFF?style=for-the-badge"/>
+</p>
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🌦 Weather Prediction System
+<div align="center">
 
-Agriculture-focused ML platform:
+# 🌦 Weather Prediction
 
-* Forecast analytics
-* Crop suggestions
-* Weather intelligence
-* Smart recommendations
+</div>
+
+### ⚡ Features
+
+* Forecast Analytics
+* Crop Suggestions
+* Weather Intelligence
+* Smart Recommendations
 
 <br>
 
-<img src="https://img.shields.io/badge/MachineLearning-9D4EDD?style=for-the-badge"/>
+<p align="center">
+<img src="https://img.shields.io/badge/MachineLearning-5A189A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Visualization-C77DFF?style=for-the-badge"/>
+</p>
 
 </td>
 
@@ -356,9 +440,9 @@ Agriculture-focused ML platform:
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=GarvitRajpoot&show_icons=true&theme=midnight-purple&hide_border=true&cache_seconds=1800"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=GarvitRajpoot&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarvitRajpoot&layout=compact&theme=midnight-purple&hide_border=true&cache_seconds=1800"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarvitRajpoot&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
 
 </p>
 
@@ -409,7 +493,7 @@ class GarvitRajpoot:
         ]
 
     def future_goal(self):
-        return "Building futuristic intelligent products 🚀"
+        return "Building futuristic intelligent systems 🚀"
 ```
 
 ---
