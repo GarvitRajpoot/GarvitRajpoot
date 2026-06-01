@@ -78,13 +78,49 @@ Current Goal:
 
 <div align="center">
 
-|          Achievement         |                   Details                   |
-| :--------------------------: | :-----------------------------------------: |
-|   🥇 Microsoft Imagine Cup   |    Selected Competitor — Silent Signal AI   |
-| 🚀 NASA Space Apps Challenge |      Global Finalist — Farm Navigators      |
-|    🤖 Oracle Certification   | Oracle Certified Generative AI Professional |
-|     💼 Infosys Internship    |   Infosys Springboard Power BI Internship   |
-|       ⚡ Hackathons & AI      |      AI Innovation & Competitive Events     |
+<table>
+
+<tr>
+
+<td width="220px" align="center">
+
+### 🥇 Microsoft Imagine Cup
+
+Selected Competitor
+**Silent Signal AI**
+
+</td>
+
+<td width="220px" align="center">
+
+### 🚀 NASA Space Apps
+
+Global Finalist
+**Farm Navigators**
+
+</td>
+
+<td width="220px" align="center">
+
+### 🤖 Oracle Certification
+
+Oracle Certified
+**Generative AI Professional**
+
+</td>
+
+<td width="220px" align="center">
+
+### 💼 Infosys Internship
+
+Infosys Springboard
+**Power BI Analytics**
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
@@ -94,12 +130,77 @@ Current Goal:
 
 <div align="center">
 
-| Role                                  | Description                                                                                                                    |
-| ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| 💼 **Infosys Springboard Internship** | Worked on Power BI dashboards, business intelligence analytics, customer insights & data visualization systems.                |
-| 🤖 **AI & ML Development**            | Built intelligent applications using machine learning, predictive analytics, weather intelligence & smart agriculture systems. |
-| 🌐 **Full Stack Development**         | Developed responsive web apps using React, Flask, REST APIs, MongoDB & modern UI systems.                                      |
-| 🚀 **Hackathons & Innovation**        | Participated in NASA Space Apps, Microsoft Imagine Cup & AI innovation competitions.                                           |
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 💼 Infosys Springboard Internship
+
+* Power BI dashboard development
+* Business intelligence analytics
+* Customer behavior insights
+* Data visualization systems
+
+<br>
+
+<img src="https://img.shields.io/badge/PowerBI-6A00A8?style=for-the-badge"/>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🤖 AI & ML Development
+
+* Machine Learning systems
+* Predictive analytics
+* Smart agriculture AI
+* Weather intelligence platforms
+
+<br>
+
+<img src="https://img.shields.io/badge/AI-9D4EDD?style=for-the-badge"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🌐 Full Stack Development
+
+* React & Flask applications
+* REST APIs
+* MongoDB systems
+* Modern UI/UX dashboards
+
+<br>
+
+<img src="https://img.shields.io/badge/FullStack-C77DFF?style=for-the-badge"/>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🚀 Innovation & Hackathons
+
+* NASA Space Apps
+* Microsoft Imagine Cup
+* AI competitions
+* Innovation events
+
+<br>
+
+<img src="https://img.shields.io/badge/Hackathons-7B2CBF?style=for-the-badge"/>
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
@@ -110,6 +211,8 @@ Current Goal:
 <div align="center">
 
 ## 🤖 AI / Machine Learning
+
+<br>
 
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn"/>
 
@@ -126,15 +229,15 @@ Current Goal:
 
 ## 🌐 Full Stack Development
 
+<br>
+
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,mongodb,mysql,nextjs,tailwind,html,css,js,ts"/>
 
 ---
 
 ## 📊 Data Analytics
 
-<img src="https://skillicons.dev/icons?i=python,mysql"/>
-
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/PowerBI-6A00A8?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Data_Analytics-9D4EDD?style=for-the-badge"/>
@@ -145,11 +248,15 @@ Current Goal:
 
 ## ☁️ Tools & Platforms
 
+<br>
+
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,figma"/>
 
 ---
 
 ## 💻 Languages
+
+<br>
 
 <img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,typescript"/>
 
@@ -161,12 +268,85 @@ Current Goal:
 
 <div align="center">
 
-| Project                          | Description                                                                                                                |
-| -------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| 🌾 **SmartAgro**                 | AI-powered agriculture intelligence platform featuring crop recommendation, weather forecasting & smart farming analytics. |
-| 📊 **FoodTrends Analytics**      | Business intelligence dashboard using Power BI, SQL analytics & customer behavior visualization.                           |
-| 📋 **TaskNova**                  | Modern productivity management system with task workflows, dashboards & modern UI/UX.                                      |
-| 🌦 **Weather Prediction System** | Agriculture-focused ML weather prediction platform with crop recommendations & forecast analytics.                         |
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🌾 SmartAgro
+
+AI-powered agriculture intelligence platform featuring:
+
+* Crop recommendation
+* Weather forecasting
+* Smart farming analytics
+* AI-powered insights
+
+<br>
+
+<img src="https://img.shields.io/badge/AI-Powered-9D4EDD?style=for-the-badge"/>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 📊 FoodTrends Analytics
+
+Business intelligence dashboard featuring:
+
+* Power BI analytics
+* SQL insights
+* Customer visualization
+* Interactive dashboards
+
+<br>
+
+<img src="https://img.shields.io/badge/PowerBI-C77DFF?style=for-the-badge"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 📋 TaskNova
+
+Modern productivity management platform:
+
+* Task workflows
+* Dashboard systems
+* Productivity optimization
+* Modern UI/UX
+
+<br>
+
+<img src="https://img.shields.io/badge/React-7B2CBF?style=for-the-badge"/>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🌦 Weather Prediction System
+
+Agriculture-focused ML platform:
+
+* Forecast analytics
+* Crop suggestions
+* Weather intelligence
+* Smart recommendations
+
+<br>
+
+<img src="https://img.shields.io/badge/MachineLearning-9D4EDD?style=for-the-badge"/>
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
@@ -176,9 +356,9 @@ Current Goal:
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=GarvitRajpoot&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=GarvitRajpoot&show_icons=true&theme=midnight-purple&hide_border=true&cache_seconds=1800"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarvitRajpoot&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarvitRajpoot&layout=compact&theme=midnight-purple&hide_border=true&cache_seconds=1800"/>
 
 </p>
 
@@ -208,7 +388,7 @@ Current Goal:
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=GarvitRajpoot&theme=discord&no-frame=true&no-bg=true&margin-w=10&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=GarvitRajpoot&theme=radical&no-frame=true&no-bg=true&margin-w=15"/>
 
 </p>
 
