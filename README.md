@@ -1,9 +1,3 @@
-# 👾 Garvit Rajpoot
-
-<h3 align="center">
-AI Engineer • Data Science Enthusiast • Full Stack Developer
-</h3>
-
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:14001F,25:3D0066,50:6A00A8,75:9D4EDD,100:C77DFF&text=GARVIT%20RAJPOOT&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20Intelligent%20Systems%20with%20Code%20🚀&descAlignY=58&descSize=20"/>
 </p>
@@ -58,7 +52,7 @@ Current Goal:
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_LINK">
+<a href="https://www.linkedin.com/in/garvitrajpoot/">
 <img src="https://skillicons.dev/icons?i=linkedin" height="75"/>
 </a>
 
@@ -86,7 +80,7 @@ Current Goal:
 
 <tr>
 
-<td align="center" width="25%">
+<td align="center" width="20%">
 
 <img src="https://img.shields.io/badge/MICROSOFT-IMAGINE_CUP_2026-0096FF?style=for-the-badge"/>
 
@@ -100,7 +94,7 @@ Silent Signal AI
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="20%">
 
 <img src="https://img.shields.io/badge/NASA-SPACE_APPS_2025-FF3C38?style=for-the-badge"/>
 
@@ -114,31 +108,45 @@ Farm Navigators
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="20%">
 
-<img src="https://img.shields.io/badge/AMAZON-ML_CHALLENGE_2025-FF9900?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ORACLE-GEN_AI_CERTIFIED-C300FF?style=for-the-badge"/>
 
 <br><br>
 
-📦 <b>Top Percentile</b>
+🤖 <b>Oracle Certified</b>
 
 <br>
 
-Multimodal Deep Learning
+Generative AI Professional
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="20%">
 
-<img src="https://img.shields.io/badge/RESEARCH-PUBLICATION-7B68EE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/INFOSYS-SPRINGBOARD-6A00A8?style=for-the-badge"/>
 
 <br><br>
 
-📑 <b>Peer Reviewed</b>
+💼 <b>Virtual Internship</b>
 
 <br>
 
-ML Predictive Analytics
+Power BI Analytics Program
+
+</td>
+
+<td align="center" width="20%">
+
+<img src="https://img.shields.io/badge/AI-INNOVATION-7B68EE?style=for-the-badge"/>
+
+<br><br>
+
+⚡ <b>Hackathons & AI</b>
+
+<br>
+
+Innovation Competitions
 
 </td>
 
@@ -160,6 +168,26 @@ ML Predictive Analytics
 
 <td width="50%" align="center">
 
+## 💼 Infosys Springboard Internship
+
+Completed a virtual internship focused on:
+
+* Power BI dashboard development
+* Business intelligence analytics
+* Data visualization
+* Customer behavior insights
+* Restaurant analytics systems
+
+<br>
+
+<img src="https://img.shields.io/badge/Infosys-Springboard-7B2CBF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/PowerBI-Analytics-C77DFF?style=for-the-badge"/>
+
+</td>
+
+<td width="50%" align="center">
+
 ## 🤖 AI & ML Development
 
 Built intelligent systems using:
@@ -167,20 +195,14 @@ Built intelligent systems using:
 * Machine Learning
 * Predictive Analytics
 * AI-powered applications
-* Weather & agriculture intelligence
+* Weather intelligence systems
+* Smart agriculture solutions
 
-</td>
+<br>
 
-<td width="50%" align="center">
+<img src="https://img.shields.io/badge/AI-Development-9D4EDD?style=for-the-badge"/>
 
-## 🌐 Full Stack Development
-
-Developed modern applications using:
-
-* React.js
-* APIs
-* Interactive dashboards
-* Modern UI/UX systems
+<img src="https://img.shields.io/badge/Machine-Learning-C77DFF?style=for-the-badge"/>
 
 </td>
 
@@ -190,14 +212,21 @@ Developed modern applications using:
 
 <td width="50%" align="center">
 
-## 📊 Data Analytics
+## 🌐 Full Stack Development
 
-Worked with:
+Developed modern applications using:
 
-* Power BI dashboards
-* SQL analytics
-* Customer insights
-* Data visualization systems
+* React.js
+* Flask
+* REST APIs
+* Interactive dashboards
+* Modern UI/UX systems
+
+<br>
+
+<img src="https://img.shields.io/badge/FullStack-Developer-7B2CBF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/React-Flask-C77DFF?style=for-the-badge"/>
 
 </td>
 
@@ -207,10 +236,16 @@ Worked with:
 
 Participated in:
 
-* NASA Space Apps
+* NASA Space Apps Challenge
 * Microsoft Imagine Cup
 * Smart India Hackathon
-* AI competitions
+* AI competitions & innovation events
+
+<br>
+
+<img src="https://img.shields.io/badge/Hackathons-Innovation-9D4EDD?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI-Competitions-C77DFF?style=for-the-badge"/>
 
 </td>
 
@@ -226,7 +261,7 @@ Participated in:
 
 <div align="center">
 
-## AI / Machine Learning
+## 🤖 AI / Machine Learning
 
 <br>
 
@@ -240,10 +275,6 @@ Participated in:
 
 <img src="https://img.shields.io/badge/🤖_Scikit--Learn-FCA311?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/🔥_Keras-D00000?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/⚡_XGBoost-0077B6?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/🤗_HuggingFace-FFD60A?style=for-the-badge&logo=huggingface&logoColor=black"/>
 
 <img src="https://img.shields.io/badge/🔗_LangChain-354F52?style=for-the-badge"/>
@@ -252,23 +283,41 @@ Participated in:
 
 ---
 
-## Full-Stack & Web
+## 🌐 Full-Stack & Web Development
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,nextjs,tailwind,html,css,js,ts"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,mongodb,mysql,nextjs,tailwind,html,css,js"/>
 
 ---
 
-## Cloud, DevOps & Tools
+## 📊 Data Analytics & Visualization
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=git,github,azure,docker,linux,vscode,postman,figma"/>
+<img src="https://skillicons.dev/icons?i=python,mysql"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/📈_PowerBI-6A00A8?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/📊_Data_Analytics-9D4EDD?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/📉_Visualization-C77DFF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🧠_Business_Intelligence-7B2CBF?style=for-the-badge"/>
 
 ---
 
-## Languages
+## ☁️ Cloud, DevOps & Tools
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,figma"/>
+
+---
+
+## 💻 Languages
 
 <br>
 
@@ -290,7 +339,7 @@ Participated in:
 
 <h3>🌾 SmartAgro</h3>
 
-AI-powered agriculture platform featuring:
+AI-powered agriculture intelligence platform:
 
 * Crop recommendation
 * Weather forecasting
