@@ -1,8 +1,4 @@
-# 👾 Garvit Rajpoot
-
-<h3 align="center">
-AI Engineer • Data Science Enthusiast • Full Stack Developer
-</h3>
+<!--   Garvit Rajpoot — GitHub Profile README                        -->
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:14001F,25:3D0066,50:6A00A8,75:9D4EDD,100:C77DFF&text=GARVIT%20RAJPOOT&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20Intelligent%20Systems%20with%20Code%20🚀&descAlignY=58&descSize=20"/>
@@ -30,7 +26,7 @@ AI Engineer • Data Science Enthusiast • Full Stack Developer
 
 # 💫 About Me
 
-<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="50%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ```yaml
 Name: Garvit Rajpoot
@@ -49,7 +45,8 @@ Focus:
   - Creative UI Systems
 
 Current Goal:
-  Building futuristic intelligent systems 🚀
+  - Passionate about building AI-driven solutions 🚀
+  - Looking for internship opportunities. 🚀
 ```
 
 ---
@@ -59,15 +56,15 @@ Current Goal:
 <p align="center">
 
 <a href="https://www.linkedin.com/in/garvitrajpoot/">
-<img src="https://img.shields.io/badge/LinkedIn-6A00A8?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge"/>
 </a>
 
 <a href="mailto:rajpootgarvit@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-9D4EDD?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/GarvitRajpoot">
-<img src="https://img.shields.io/badge/GitHub-C77DFF?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/GitHub-C77DFF?style=for-the-badge"/>
 </a>
 
 </p>
@@ -79,62 +76,55 @@ Current Goal:
 <div align="center">
 
 <table>
-
 <tr>
 
-<td width="250px" align="center">
+<td width="20%" align="center">
 
-<img src="https://img.shields.io/badge/Microsoft_Imagine_Cup-14001F?style=for-the-badge&logo=microsoft&logoColor=C77DFF"/>
+<img src="https://img.shields.io/badge/Microsoft_Imagine_Cup-14001F?style=for-the-badge"/>
 
-<br><br>
+<h4>🥇 Selected Competitor</h4>
 
-<h3>🥇 Selected Competitor</h3>
-
-<p>
-Silent Signal AI
-</p>
+<h6>Silent Signal AI</h6>
 
 </td>
 
-<td width="250px" align="center">
+<td width="20%" align="center">
 
-<img src="https://img.shields.io/badge/NASA_Space_Apps-240046?style=for-the-badge&logo=nasa&logoColor=C77DFF"/>
+<img src="https://img.shields.io/badge/NASA_Space_Apps-240046?style=for-the-badge"/>
 
-<br><br>
+<h4>🚀 Global Finalist</h4>
 
-<h3>🚀 Global Finalist</h3>
-
-<p>
-Farm Navigators
-</p>
+<h6>Farm Navigators</h6>
 
 </td>
 
-<td width="250px" align="center">
+<td width="20%" align="center">
 
-<img src="https://img.shields.io/badge/Oracle_Generative_AI-3C096C?style=for-the-badge&logo=oracle&logoColor=C77DFF"/>
+<img src="https://img.shields.io/badge/Oracle_Generative_AI-3C096C?style=for-the-badge"/>
 
-<br><br>
+<h4>🤖 Oracle Certified</h4>
 
-<h3>🤖 Oracle Certified</h3>
-
-<p>
-Generative AI Professional
-</p>
+<h6>Generative AI Professional</h6>
 
 </td>
 
-<td width="250px" align="center">
+<td width="20%" align="center">
 
-<img src="https://img.shields.io/badge/Infosys_Springboard-5A189A?style=for-the-badge&logo=infosys&logoColor=C77DFF"/>
+<img src="https://img.shields.io/badge/Amazon_ML_Challenge-7B2CBF?style=for-the-badge"/>
 
-<br><br>
+<h4>📦 Top Percentile</h4>
 
-<h3>💼 Internship</h3>
+<h6>Multimodal Deep Learning</h6>
 
-<p>
-Power BI Analytics
-</p>
+</td>
+
+<td width="20%" align="center">
+
+<img src="https://img.shields.io/badge/Research_Publication-9D4EDD?style=for-the-badge"/>
+
+<h4>📑 Peer Reviewed</h4>
+
+<h6>ML Predictive Analytics</h6>
 
 </td>
 
@@ -143,8 +133,6 @@ Power BI Analytics
 </table>
 
 </div>
-
----
 
 # 💼 Experience
 
@@ -158,8 +146,8 @@ Power BI Analytics
 
 <div align="center">
 
-# 💼 Infosys Internship
-
+<h3> 💼 Infosys Internship </h3>
+-----------------------------------------
 </div>
 
 ### ⚡ Responsibilities
@@ -182,8 +170,8 @@ Power BI Analytics
 
 <div align="center">
 
-# 🤖 AI & ML Development
-
+<h3>🤖 AI/ML Development </h3>
+-----------------------------------------
 </div>
 
 ### ⚡ Built Systems Using
@@ -210,8 +198,8 @@ Power BI Analytics
 
 <div align="center">
 
-# 🌐 Full Stack Development
-
+<h3>🌐 Full Stack  Development </h3>
+-----------------------------------------
 </div>
 
 ### ⚡ Development Stack
@@ -234,15 +222,15 @@ Power BI Analytics
 
 <div align="center">
 
-# 🚀 Innovation & Hackathons
-
+<h3>🚀 Hackathons & Innovations </h3>
+-----------------------------------------
 </div>
 
 ### ⚡ Participations
 
 * NASA Space Apps
 * Microsoft Imagine Cup
-* AI Competitions
+* Amazon ML Challenge
 * Innovation Events
 
 <br>
@@ -436,18 +424,6 @@ Power BI Analytics
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=GarvitRajpoot&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarvitRajpoot&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
-
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -463,16 +439,6 @@ Power BI Analytics
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=GarvitRajpoot&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=C77DFF&line=9D4EDD&point=FFFFFF"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=GarvitRajpoot&theme=radical&no-frame=true&no-bg=true&margin-w=15"/>
 
 </p>
 
@@ -518,11 +484,7 @@ class GarvitRajpoot:
 
 ---
 
-<p align="center">
-
-✨ Thanks for visiting my profile ✨
-
-</p>
+<p align="center"> ✨ If my work sparks ideas or inspiration, consider giving a star — it genuinely motivates me to build more. ✨</p>
 
 ---
 
