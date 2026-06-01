@@ -1,10 +1,4 @@
-# 👾 Garvit Rajpoot
 
-<h3 align="center">
-AI Engineer • Data Science Enthusiast • Full Stack Developer
-</h3>
-
----
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:1A002B,25:3B0A57,50:6A0DAD,75:A020F0,100:C77DFF&text=GARVIT%20RAJPOOT&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20Intelligent%20Systems%20with%20Code%20%F0%9F%9A%80&descAlignY=58&descSize=20"/>
