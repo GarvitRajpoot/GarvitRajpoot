@@ -11,7 +11,7 @@ AI Engineer • Data Science Enthusiast • Full Stack Developer
 ---
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=3500&pause=1000&color=C77DFF&center=true&vCenter=true&width=1000&lines=Artificial+Intelligence+Enthusiast;Full+Stack+Developer;Machine+Learning+Explorer;Power+BI+%7C+Python+%7C+React;Oracle+Certified+Generative+AI+Professional"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3500&pause=1000&color=C77DFF&center=true&vCenter=true&width=1000&lines=Artificial+Intelligence+Enthusiast;Full+Stack+Developer;Machine+Learning+Explorer;Power+BI+%7C+Python+%7C+React;Oracle+Certified+Generative+AI+Professional"/>
 </p>
 
 ---
@@ -30,7 +30,7 @@ AI Engineer • Data Science Enthusiast • Full Stack Developer
 
 # 💫 About Me
 
-<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ```yaml
 Name: Garvit Rajpoot
@@ -50,7 +50,6 @@ Focus:
 
 Current Goal:
   Building futuristic intelligent applications 🚀
-  Actively lookig for internship opportunities 🚀
 ```
 
 ---
@@ -60,19 +59,15 @@ Current Goal:
 <p align="center">
 
 <a href="YOUR_LINKEDIN_LINK">
-<img src="https://skillicons.dev/icons?i=linkedin" height="75"/>
+  <img src="https://img.shields.io/badge/LinkedIn-6A00A8?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-    
 
 <a href="mailto:rajpootgarvit@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="75"/>
+  <img src="https://img.shields.io/badge/Gmail-9D4EDD?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-    
-
 <a href="https://github.com/GarvitRajpoot">
-<img src="https://skillicons.dev/icons?i=github" height="75"/>
+  <img src="https://img.shields.io/badge/GitHub-C77DFF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 </p>
@@ -83,83 +78,13 @@ Current Goal:
 
 <div align="center">
 
-<table>
-
-<tr>
-
-<td align="center" width="20%">
-
-<img src="https://img.shields.io/badge/MICROSOFT-IMAGINE_CUP_2026-0096FF?style=for-the-badge"/>
-
-<br><br>
-
-🥇 <b>Selected Competitor</b>
-
-<br>
-
-Silent Signal AI
-
-</td>
-
-<td align="center" width="20%">
-
-<img src="https://img.shields.io/badge/NASA-SPACE_APPS_2025-FF3C38?style=for-the-badge"/>
-
-<br><br>
-
-🚀 <b>Global Finalist</b>
-
-<br>
-
-Farm Navigators
-
-</td>
-
-<td align="center" width="20%">
-
-<img src="https://img.shields.io/badge/ORACLE-GEN_AI_CERTIFIED-C300FF?style=for-the-badge"/>
-
-<br><br>
-
-🤖 <b>Oracle Certified</b>
-
-<br>
-
-Generative AI Professional
-
-</td>
-
-<td align="center" width="20%">
-
-<img src="https://img.shields.io/badge/INFOSYS-SPRINGBOARD-6A00A8?style=for-the-badge"/>
-
-<br><br>
-
-💼 <b>Virtual Internship</b>
-
-<br>
-
-Power BI Analytics Program
-
-</td>
-
-<td align="center" width="20%">
-
-<img src="https://img.shields.io/badge/AI-INNOVATION-7B68EE?style=for-the-badge"/>
-
-<br><br>
-
-⚡ <b>Hackathons & AI</b>
-
-<br>
-
-Innovation Competitions
-
-</td>
-
-</tr>
-
-</table>
+|          Achievement         |                   Details                   |
+| :--------------------------: | :-----------------------------------------: |
+|   🥇 Microsoft Imagine Cup   |    Selected Competitor — Silent Signal AI   |
+| 🚀 NASA Space Apps Challenge |      Global Finalist — Farm Navigators      |
+|    🤖 Oracle Certification   | Oracle Certified Generative AI Professional |
+|     💼 Infosys Internship    |   Infosys Springboard Power BI Internship   |
+|       ⚡ Hackathons & AI      |      AI Innovation & Competitive Events     |
 
 </div>
 
@@ -169,96 +94,12 @@ Innovation Competitions
 
 <div align="center">
 
-<table>
-
-<tr>
-
-<td width="50%" align="center">
-
-## 💼 Infosys Springboard Internship
-
-Completed a virtual internship focused on:
-
-* Power BI dashboard development
-* Business intelligence analytics
-* Data visualization
-* Customer behavior insights
-* Restaurant analytics systems
-
-<br>
-
-<img src="https://img.shields.io/badge/Infosys-Springboard-7B2CBF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/PowerBI-Analytics-C77DFF?style=for-the-badge"/>
-
-</td>
-
-<td width="50%" align="center">
-
-## 🤖 AI & ML Development
-
-Built intelligent systems using:
-
-* Machine Learning
-* Predictive Analytics
-* AI-powered applications
-* Weather intelligence systems
-* Smart agriculture solutions
-
-<br>
-
-<img src="https://img.shields.io/badge/AI-Development-9D4EDD?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Machine-Learning-C77DFF?style=for-the-badge"/>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" align="center">
-
-## 🌐 Full Stack Development
-
-Developed modern applications using:
-
-* React.js
-* Flask
-* REST APIs
-* Interactive dashboards
-* Modern UI/UX systems
-
-<br>
-
-<img src="https://img.shields.io/badge/FullStack-Developer-7B2CBF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/React-Flask-C77DFF?style=for-the-badge"/>
-
-</td>
-
-<td width="50%" align="center">
-
-## 🚀 Innovation & Hackathons
-
-Participated in:
-
-* NASA Space Apps Challenge
-* Microsoft Imagine Cup
-* Smart India Hackathon
-* AI competitions & innovation events
-
-<br>
-
-<img src="https://img.shields.io/badge/Hackathons-Innovation-9D4EDD?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/AI-Competitions-C77DFF?style=for-the-badge"/>
-
-</td>
-
-</tr>
-
-</table>
+| Role                                  | Description                                                                                                                    |
+| ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| 💼 **Infosys Springboard Internship** | Worked on Power BI dashboards, business intelligence analytics, customer insights & data visualization systems.                |
+| 🤖 **AI & ML Development**            | Built intelligent applications using machine learning, predictive analytics, weather intelligence & smart agriculture systems. |
+| 🌐 **Full Stack Development**         | Developed responsive web apps using React, Flask, REST APIs, MongoDB & modern UI systems.                                      |
+| 🚀 **Hackathons & Innovation**        | Participated in NASA Space Apps, Microsoft Imagine Cup & AI innovation competitions.                                           |
 
 </div>
 
@@ -270,67 +111,45 @@ Participated in:
 
 ## 🤖 AI / Machine Learning
 
-<br>
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/📦_NumPy-240046?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/📊_Pandas-3C096C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/🤖_Scikit--Learn-7B2CBF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/🔥_Keras-9D4EDD?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/⚡_XGBoost-C77DFF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/🤗_HuggingFace-6A00A8?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/🔗_LangChain-5A189A?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/✨_Gemini_AI-9C89B8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NumPy-240046?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pandas-3C096C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Keras-7B2CBF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/XGBoost-9D4EDD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HuggingFace-C77DFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-5A189A?style=for-the-badge"/>
 
 ---
 
-## 🌐 Full-Stack & Web Development
-
-<br>
+## 🌐 Full Stack Development
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,mongodb,mysql,nextjs,tailwind,html,css,js,ts"/>
 
 ---
 
-## 📊 Data Analytics & Visualization
-
-<br>
+## 📊 Data Analytics
 
 <img src="https://skillicons.dev/icons?i=python,mysql"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/📈_PowerBI-6A00A8?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/📊_Data_Analytics-9D4EDD?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/📉_Visualization-C77DFF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/🧠_Business_Intelligence-7B2CBF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PowerBI-6A00A8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data_Analytics-9D4EDD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Visualization-C77DFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Business_Intelligence-7B2CBF?style=for-the-badge"/>
 
 ---
 
-## ☁️ Cloud, DevOps & Tools
-
-<br>
+## ☁️ Tools & Platforms
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,figma"/>
 
 ---
 
 ## 💻 Languages
-
-<br>
 
 <img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,typescript"/>
 
@@ -342,93 +161,12 @@ Participated in:
 
 <div align="center">
 
-<table>
-
-<tr>
-
-<td width="50%" align="center">
-
-<h3>🌾 SmartAgro</h3>
-
-AI-powered agriculture intelligence platform:
-
-* Crop recommendation
-* Weather forecasting
-* Smart farming analytics
-* AI insights
-
-<br>
-
-<img src="https://img.shields.io/badge/OpenMeteo-API-9D4EDD?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/AI-Powered-C77DFF?style=for-the-badge"/>
-
-</td>
-
-<td width="50%" align="center">
-
-<h3>📊 FoodTrends Analytics</h3>
-
-Business intelligence dashboard using:
-
-* Power BI
-* SQL analytics
-* Customer insights
-* Business visualization
-
-<br>
-
-<img src="https://img.shields.io/badge/130K+-Records-7B2CBF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/PowerBI-Dashboard-C77DFF?style=for-the-badge"/>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" align="center">
-
-<h3>📋 TaskNova</h3>
-
-Modern productivity management system:
-
-* Task workflows
-* Interactive dashboards
-* Modern UI
-* Productivity optimization
-
-<br>
-
-<img src="https://img.shields.io/badge/React-Frontend-9D4EDD?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/UI%2FUX-Modern-C77DFF?style=for-the-badge"/>
-
-</td>
-
-<td width="50%" align="center">
-
-<h3>🌦 Weather Prediction System</h3>
-
-Agriculture-based weather prediction platform:
-
-* Forecast analytics
-* Crop suggestions
-* Smart recommendations
-* Dashboard integration
-
-<br>
-
-<img src="https://img.shields.io/badge/ML-Weather_AI-7B2CBF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Data-Visualization-C77DFF?style=for-the-badge"/>
-
-</td>
-
-</tr>
-
-</table>
+| Project                          | Description                                                                                                                |
+| -------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| 🌾 **SmartAgro**                 | AI-powered agriculture intelligence platform featuring crop recommendation, weather forecasting & smart farming analytics. |
+| 📊 **FoodTrends Analytics**      | Business intelligence dashboard using Power BI, SQL analytics & customer behavior visualization.                           |
+| 📋 **TaskNova**                  | Modern productivity management system with task workflows, dashboards & modern UI/UX.                                      |
+| 🌦 **Weather Prediction System** | Agriculture-focused ML weather prediction platform with crop recommendations & forecast analytics.                         |
 
 </div>
 
@@ -438,9 +176,9 @@ Agriculture-based weather prediction platform:
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GarvitRajpoot&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=GarvitRajpoot&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarvitRajpoot&layout=compact&theme=midnight-purple&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarvitRajpoot&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
 
 </p>
 
@@ -470,17 +208,7 @@ Agriculture-based weather prediction platform:
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=GarvitRajpoot&theme=discord&no-frame=true&no-bg=true&margin-w=18&row=1"/>
-
-</p>
-
----
-
-# 💻 Coding Mode
-
-<p align="center">
-
-<img width="500" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img src="https://github-profile-trophy.vercel.app/?username=GarvitRajpoot&theme=discord&no-frame=true&no-bg=true&margin-w=10&row=1"/>
 
 </p>
 
