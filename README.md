@@ -1,3 +1,9 @@
+# 👾 Garvit Rajpoot
+
+<h3 align="center">
+AI Engineer • Data Science Enthusiast • Full Stack Developer
+</h3>
+
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:14001F,25:3D0066,50:6A00A8,75:9D4EDD,100:C77DFF&text=GARVIT%20RAJPOOT&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20Intelligent%20Systems%20with%20Code%20🚀&descAlignY=58&descSize=20"/>
 </p>
@@ -44,6 +50,7 @@ Focus:
 
 Current Goal:
   Building futuristic intelligent applications 🚀
+  Actively lookig for internship opportunities 🚀
 ```
 
 ---
@@ -52,7 +59,7 @@ Current Goal:
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/garvitrajpoot/">
+<a href="YOUR_LINKEDIN_LINK">
 <img src="https://skillicons.dev/icons?i=linkedin" height="75"/>
 </a>
 
@@ -269,15 +276,19 @@ Participated in:
 
 <br><br>
 
-<img src="https://img.shields.io/badge/📦_NumPy-003B57?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📦_NumPy-240046?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/📊_Pandas-240046?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📊_Pandas-3C096C?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/🤖_Scikit--Learn-FCA311?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🤖_Scikit--Learn-7B2CBF?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/🤗_HuggingFace-FFD60A?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/🔥_Keras-9D4EDD?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/🔗_LangChain-354F52?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/⚡_XGBoost-C77DFF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🤗_HuggingFace-6A00A8?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🔗_LangChain-5A189A?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/✨_Gemini_AI-9C89B8?style=for-the-badge"/>
 
@@ -287,7 +298,7 @@ Participated in:
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,mongodb,mysql,nextjs,tailwind,html,css,js"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,mongodb,mysql,nextjs,tailwind,html,css,js,ts"/>
 
 ---
 
@@ -459,7 +470,7 @@ Agriculture-based weather prediction platform:
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=GarvitRajpoot&theme=discord&no-frame=true&no-bg=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=GarvitRajpoot&theme=discord&no-frame=true&no-bg=true&margin-w=18&row=1"/>
 
 </p>
 
