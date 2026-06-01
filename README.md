@@ -1,32 +1,40 @@
-# 👾 Hey, I'm Garvit Rajpoot
+# 👾 Garvit Rajpoot
 
 <h3 align="center">
-AI • Data Science • Full Stack Developer
+AI Engineer • Data Science Enthusiast • Full Stack Developer
 </h3>
 
+---
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:2E0249,25:570A57,50:A91079,75:F806CC,100:C77DFF&text=Garvit%20Rajpoot&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Data%20Science%20Enthusiast%20%7C%20Creative%20Developer&descAlignY=58&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:1A002B,25:3B0A57,50:6A0DAD,75:A020F0,100:C77DFF&text=GARVIT%20RAJPOOT&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20Intelligent%20Systems%20with%20Code%20%F0%9F%9A%80&descAlignY=58&descSize=20"/>
 </p>
 
+---
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=2500&pause=1000&color=C77DFF&center=true&vCenter=true&width=1000&lines=Artificial+Intelligence+Enthusiast;Full+Stack+Developer;Power+BI+%7C+Python+%7C+React;Building+Cool+Intelligent+Systems;Oracle+Certified+Generative+AI+Professional" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3500&pause=1000&color=C77DFF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Enthusiast;Full+Stack+Developer;Power+BI+%7C+Python+%7C+React;Machine+Learning+Explorer;Oracle+Certified+Generative+AI+Professional"/>
 </p>
 
+---
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GarvitRajpoot&label=PROFILE+VIEWS&color=8A2BE2&style=for-the-badge"/>
 
-  <img src="https://img.shields.io/github/followers/GarvitRajpoot?label=Followers&style=for-the-badge&color=C77DFF"/>
+<img src="https://komarev.com/ghpvc/?username=GarvitRajpoot&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
 
-  <img src="https://img.shields.io/github/stars/GarvitRajpoot?affiliations=OWNER&style=for-the-badge&color=9370DB"/>
+<img src="https://img.shields.io/github/followers/GarvitRajpoot?style=for-the-badge&color=7B2CBF"/>
+
+<img src="https://img.shields.io/github/stars/GarvitRajpoot?affiliations=OWNER&style=for-the-badge&color=C77DFF"/>
+
 </p>
 
 ---
 
 # 💫 About Me
 
-<img align="right" width="330" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnI5c2JzNjI4NzA4NmM5aWx4M3FpNndwYW5mNjF2ZnM3NnR2d2JrYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-```yaml id="j8j4gu"
+```yaml
 Name: Garvit Rajpoot
 
 Education:
@@ -37,19 +45,20 @@ College:
 
 Interests:
   - Artificial Intelligence
-  - Data Analytics
-  - Machine Learning
+  - Data Science
   - Full Stack Development
-  - UI/UX & Creative Systems
+  - Machine Learning
+  - Data Analytics
 
-Current Goal:
-  Building intelligent products with modern tech
+Currently Exploring:
+  - AI Applications
+  - Modern Web Systems
+  - Scalable Intelligent Solutions
 ```
 
 🏆 NASA Space Apps Challenge 2025 — Finalist
 🏆 Microsoft Imagine Cup 2026 — Selected
-🏆 Smart India Hackathon 2025 — Participant
-🏆 Oracle Generative AI Professional Certified
+🏆 Oracle Certified Generative AI Professional
 
 ---
 
@@ -58,28 +67,30 @@ Current Goal:
 <p align="center">
 
 <a href="YOUR_LINKEDIN_LINK">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="60"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
 </a>
 
 <a href="mailto:rajpootgarvit@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="60"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
 </a>
 
 <a href="https://github.com/GarvitRajpoot">
-  <img src="https://skillicons.dev/icons?i=github" height="60"/>
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
 </a>
 
 </p>
 
 ---
 
-# ⚡ Tech Arsenal
+# ⚡ Tech Stack
 
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,react,html,css,mysql,git,github,vscode"/>
 
 </p>
+
+---
 
 <p align="center">
 
@@ -98,7 +109,7 @@ Current Goal:
 ---
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216656963-09118229-ef4f-4c3b-9d9e-1c5f8c5d9d4f.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212897782-96581576-8d3b-4b6d-9f4b-2c8c3f2c8c3f.gif" width="100%">
 </p>
 
 ---
@@ -107,20 +118,12 @@ Current Goal:
 
 <p align="center">
 
-<a href="https://github.com/GarvitRajpoot/SmartAgro">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/pin/?username=GarvitRajpoot&repo=SmartAgro&theme=midnight-purple&hide_border=true&border_radius=15"/>
-</a>
-
-<a href="https://github.com/GarvitRajpoot/TaskNova">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/pin/?username=GarvitRajpoot&repo=TaskNova&theme=midnight-purple&hide_border=true&border_radius=15"/>
+<a href="https://github.com/GarvitRajpoot">
+<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=GarvitRajpoot&repo=SmartAgro&theme=midnight-purple&hide_border=true"/>
 </a>
 
 <a href="https://github.com/GarvitRajpoot">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/pin/?username=GarvitRajpoot&repo=FoodTrends&theme=midnight-purple&hide_border=true&border_radius=15"/>
-</a>
-
-<a href="https://github.com/GarvitRajpoot">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/pin/?username=GarvitRajpoot&repo=WeatherPredict&theme=midnight-purple&hide_border=true&border_radius=15"/>
+<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=GarvitRajpoot&repo=TaskNova&theme=midnight-purple&hide_border=true"/>
 </a>
 
 </p>
@@ -131,9 +134,9 @@ Current Goal:
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GarvitRajpoot&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=15"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GarvitRajpoot&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarvitRajpoot&layout=compact&theme=midnight-purple&hide_border=true&border_radius=15"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarvitRajpoot&layout=compact&theme=midnight-purple&hide_border=true"/>
 
 </p>
 
@@ -142,7 +145,9 @@ Current Goal:
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=GarvitRajpoot&theme=midnight-purple&hide_border=true&border_radius=15"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=GarvitRajpoot&theme=midnight-purple&hide_border=true"/>
+
 </p>
 
 ---
@@ -150,51 +155,39 @@ Current Goal:
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GarvitRajpoot&theme=react-dark&bg_color=0D1117&hide_border=true&line=C77DFF&color=C77DFF"/>
-</p>
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GarvitRajpoot&bg_color=0d1117&color=C77DFF&line=A020F0&point=FFFFFF&hide_border=true"/>
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GarvitRajpoot&theme=discord&no-frame=true&row=1&column=7"/>
-</p>
-
----
-
-# 💻 Coding Mode
-
-<p align="center">
-  <img width="550" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 </p>
 
 ---
 
 # 🌱 Current Mission
 
-```python id="3lyy6r"
+```python
 class GarvitRajpoot:
 
     def __init__(self):
-        self.current_focus = [
-            "AI Powered Applications",
-            "Modern Full Stack Systems",
+        self.focus = [
+            "Artificial Intelligence",
             "Machine Learning",
-            "Creative UI/UX",
+            "Full Stack Development",
+            "Creative UI Systems",
             "Data Visualization"
         ]
 
-    def future(self):
+    def future_goal(self):
         return "Building futuristic intelligent products 🚀"
 ```
 
 ---
 
-# 🎯 Developer Mindset
+# 🎯 Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+
 </p>
 
 ---
@@ -202,11 +195,21 @@ class GarvitRajpoot:
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:2E0249,25:570A57,50:A91079,75:F806CC,100:C77DFF"/>
+
+✨ Thanks for visiting my profile ✨
+
+</p>
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:1A002B,25:3B0A57,50:6A0DAD,75:A020F0,100:C77DFF"/>
 </p>
