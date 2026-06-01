@@ -11,7 +11,7 @@ AI Engineer • Data Science Enthusiast • Full Stack Developer
 ---
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=3500&pause=1000&color=C77DFF&center=true&vCenter=true&width=1000&lines=Artificial+Intelligence+Enthusiast;Full+Stack+Developer;Power+BI+%7C+Python+%7C+React;Machine+Learning+Explorer;Oracle+Certified+Generative+AI+Professional"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=3500&pause=1000&color=C77DFF&center=true&vCenter=true&width=1000&lines=Artificial+Intelligence+Enthusiast;Full+Stack+Developer;Machine+Learning+Explorer;Power+BI+%7C+Python+%7C+React;Oracle+Certified+Generative+AI+Professional"/>
 </p>
 
 ---
@@ -44,17 +44,13 @@ College:
 Focus:
   - Artificial Intelligence
   - Machine Learning
-  - Data Analytics
   - Full Stack Development
+  - Data Analytics
   - Creative UI Systems
 
 Current Goal:
   Building futuristic intelligent applications 🚀
 ```
-
-🏆 NASA Space Apps Challenge 2025 — Finalist
-🏆 Microsoft Imagine Cup 2026 — Selected
-🏆 Oracle Certified Generative AI Professional
 
 ---
 
@@ -63,48 +59,222 @@ Current Goal:
 <p align="center">
 
 <a href="YOUR_LINKEDIN_LINK">
-<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="75"/>
 </a>
+
+    
 
 <a href="mailto:rajpootgarvit@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="75"/>
 </a>
+
+    
 
 <a href="https://github.com/GarvitRajpoot">
-<img src="https://skillicons.dev/icons?i=github" height="55"/>
+<img src="https://skillicons.dev/icons?i=github" height="75"/>
 </a>
 
 </p>
 
 ---
 
-# ⚡ Tech Stack
+# 🏅 Career Highlights
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,react,html,css,mysql,git,github,vscode"/>
+<table>
 
-</p>
+<tr>
 
-<p align="center">
+<td align="center" width="25%">
 
-<img src="https://img.shields.io/badge/Power_BI-6A00A8?style=for-the-badge&logo=powerbi&logoColor=white"/>
+<img src="https://img.shields.io/badge/MICROSOFT-IMAGINE_CUP_2026-0096FF?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Pandas-7B2CBF?style=for-the-badge&logo=pandas&logoColor=white"/>
+<br><br>
 
-<img src="https://img.shields.io/badge/NumPy-9D4EDD?style=for-the-badge&logo=numpy&logoColor=white"/>
+🥇 <b>Selected Competitor</b>
 
-<img src="https://img.shields.io/badge/Machine_Learning-C77DFF?style=for-the-badge"/>
+<br>
 
-<img src="https://img.shields.io/badge/Data_Analytics-3C096C?style=for-the-badge"/>
+Silent Signal AI
 
-</p>
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/NASA-SPACE_APPS_2025-FF3C38?style=for-the-badge"/>
+
+<br><br>
+
+🚀 <b>Global Finalist</b>
+
+<br>
+
+Farm Navigators
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/AMAZON-ML_CHALLENGE_2025-FF9900?style=for-the-badge"/>
+
+<br><br>
+
+📦 <b>Top Percentile</b>
+
+<br>
+
+Multimodal Deep Learning
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/RESEARCH-PUBLICATION-7B68EE?style=for-the-badge"/>
+
+<br><br>
+
+📑 <b>Peer Reviewed</b>
+
+<br>
+
+ML Predictive Analytics
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
 
 ---
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/216656963-09118229-ef4f-4c3b-9d9e-1c5f8c5d9d4f.gif" width="100%">
-</p>
+# 💼 Experience
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td width="50%" align="center">
+
+## 🤖 AI & ML Development
+
+Built intelligent systems using:
+
+* Machine Learning
+* Predictive Analytics
+* AI-powered applications
+* Weather & agriculture intelligence
+
+</td>
+
+<td width="50%" align="center">
+
+## 🌐 Full Stack Development
+
+Developed modern applications using:
+
+* React.js
+* APIs
+* Interactive dashboards
+* Modern UI/UX systems
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+## 📊 Data Analytics
+
+Worked with:
+
+* Power BI dashboards
+* SQL analytics
+* Customer insights
+* Data visualization systems
+
+</td>
+
+<td width="50%" align="center">
+
+## 🚀 Innovation & Hackathons
+
+Participated in:
+
+* NASA Space Apps
+* Microsoft Imagine Cup
+* Smart India Hackathon
+* AI competitions
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+## AI / Machine Learning
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/📦_NumPy-003B57?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/📊_Pandas-240046?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🤖_Scikit--Learn-FCA311?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🔥_Keras-D00000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/⚡_XGBoost-0077B6?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🤗_HuggingFace-FFD60A?style=for-the-badge&logo=huggingface&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/🔗_LangChain-354F52?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/✨_Gemini_AI-9C89B8?style=for-the-badge"/>
+
+---
+
+## Full-Stack & Web
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,nextjs,tailwind,html,css,js,ts"/>
+
+---
+
+## Cloud, DevOps & Tools
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=git,github,azure,docker,linux,vscode,postman,figma"/>
+
+---
+
+## Languages
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,typescript"/>
+
+</div>
 
 ---
 
@@ -116,39 +286,41 @@ Current Goal:
 
 <tr>
 
-<td width="50%">
+<td width="50%" align="center">
 
-### 🌾 SmartAgro
+<h3>🌾 SmartAgro</h3>
 
-AI-powered agriculture recommendation system using:
+AI-powered agriculture platform featuring:
 
-* Weather APIs
-* Crop prediction
-* Smart farming insights
-* Forecast analytics
+* Crop recommendation
+* Weather forecasting
+* Smart farming analytics
+* AI insights
 
-<p align="center">
-<img src="https://img.shields.io/badge/AI-Powered-9D4EDD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OpenMeteo-API-C77DFF?style=for-the-badge"/>
-</p>
+<br>
+
+<img src="https://img.shields.io/badge/OpenMeteo-API-9D4EDD?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI-Powered-C77DFF?style=for-the-badge"/>
 
 </td>
 
-<td width="50%">
+<td width="50%" align="center">
 
-### 📊 FoodTrends Analytics
+<h3>📊 FoodTrends Analytics</h3>
 
-Business intelligence dashboard platform using:
+Business intelligence dashboard using:
 
 * Power BI
-* SQL
-* Customer analytics
-* Data visualization
+* SQL analytics
+* Customer insights
+* Business visualization
 
-<p align="center">
-<img src="https://img.shields.io/badge/PowerBI-Dashboard-7B2CBF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/130K+-Records-C77DFF?style=for-the-badge"/>
-</p>
+<br>
+
+<img src="https://img.shields.io/badge/130K+-Records-7B2CBF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/PowerBI-Dashboard-C77DFF?style=for-the-badge"/>
 
 </td>
 
@@ -156,39 +328,41 @@ Business intelligence dashboard platform using:
 
 <tr>
 
-<td width="50%">
+<td width="50%" align="center">
 
-### 📋 TaskNova
+<h3>📋 TaskNova</h3>
 
-Modern productivity dashboard featuring:
+Modern productivity management system:
 
-* Task management
-* Interactive UI
-* Productivity workflows
-* Clean user experience
+* Task workflows
+* Interactive dashboards
+* Modern UI
+* Productivity optimization
 
-<p align="center">
+<br>
+
 <img src="https://img.shields.io/badge/React-Frontend-9D4EDD?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/UI%2FUX-Modern-C77DFF?style=for-the-badge"/>
-</p>
 
 </td>
 
-<td width="50%">
+<td width="50%" align="center">
 
-### 🌦 Weather Prediction System
+<h3>🌦 Weather Prediction System</h3>
 
 Agriculture-based weather prediction platform:
 
-* Crop suggestions
 * Forecast analytics
-* Dashboard integration
+* Crop suggestions
 * Smart recommendations
+* Dashboard integration
 
-<p align="center">
+<br>
+
 <img src="https://img.shields.io/badge/ML-Weather_AI-7B2CBF?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Data-Visualization-C77DFF?style=for-the-badge"/>
-</p>
 
 </td>
 
