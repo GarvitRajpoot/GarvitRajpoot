@@ -1,209 +1,209 @@
-<div align="center">
+````md
+<!-- PROFILE BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Garvit%20Rajpoot&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20Data%20Science%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18"/>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=09090b,3A0CA3,7209B7,4361ee&height=180&section=header&text=GARVIT%20RAJPOOT&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=45&desc=Data%20Scientist%20%7C%20Full-Stack%20Developer%20%7C%20Gen%20AI%20Engineer&descAlignY=70&descSize=16" alt="Garvit Rajpoot Header" />
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=AI+%26+Data+Science+Enthusiast;Full+Stack+Developer;Power+BI+%7C+Python+%7C+React;Building+Intelligent+Solutions;Oracle+Certified+Generative+AI+Professional" />
+</p>
 
-<br><br>
-
-<a href="https://www.linkedin.com/in/garvitrajpoot/" target="_blank">
-  <img src="https://img.shields.io/badge/LINKEDIN-09090b?style=for-the-badge&logo=linkedin&logoColor=4361ee" />
-</a>
-
-&nbsp;&nbsp;
-
-<a href="mailto:rajpootgarvit@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-09090b?style=for-the-badge&logo=gmail&logoColor=7209B7" />
-</a>
-
-</div>
+<!-- PROFILE VIEWS -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GarvitRajpoot&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
 
 ---
 
-# 🔮 System Profile
+# 💫 About Me
 
-<div align="center">
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=4361ee&center=true&vCenter=true&width=700&lines=B.Tech+CSE+(Data+Science)+at+SRMIST;Oracle+Certified+GenAI+Professional;Machine+Learning+%7C+Data+Science+%7C+Cloud;Building+Intelligent+Data+Pipelines;Developing+Agriculture+Tech+Solutions;Flame+On!+⚡" />
+🎓 B.Tech CSE (Data Science) Student at **SRM Institute of Science & Technology**
 
-</div>
+🤖 Oracle Certified **Generative AI Professional**
 
-<br>
-
-```text
-┌─────────────────────────────────────────────────────────────────────┐
-│  Passionate Data Science student focused on solving real-world      │
-│  problems using Machine Learning, AI, Cloud Computing and           │
-│  Full-Stack Development.                                            │
-│                                                                     │
-│  Interested in predictive analytics, intelligent automation,        │
-│  generative AI systems, and technology-driven agriculture.          │
-└─────────────────────────────────────────────────────────────────────┘
-```
-
-## 🎓 Education
-
-- **B.Tech in Computer Science & Engineering (Data Science)**
-- **SRM Institute of Science and Technology**
-- Expected Graduation: **2027**
-
-## 💡 Core Expertise
-
-- Machine Learning
-- Data Science
-- Generative AI
-- Full-Stack Development
+📊 Passionate about:
+- Artificial Intelligence
 - Data Analytics
-- Cloud Computing
-- Database Systems
+- Full Stack Development
+- Machine Learning
+- Power BI Dashboards
 
-## 🌱 Current Focus
-
-- AI-powered Agriculture Solutions
-- Weather Prediction Systems
-- Crop Recommendation Models
-- Computer Vision Applications
-- Intelligent Web Applications
-
-## ⚡ Team DNA
-
-As the designated **"Johnny Storm"** of my project teams, I bring high energy, creativity, and rapid execution to every project.
-
----
-
-# 🛠️ Core Stack Matrix
-
-| Category | Technologies |
-|-----------|-------------|
-| **Programming Languages** | C, C++, Python, JavaScript, SQL |
-| **Data Science & ML** | NumPy, Pandas, Scikit-Learn, TensorFlow, OpenCV |
-| **Web Development** | HTML5, CSS3, JavaScript, Flask |
-| **Databases** | MySQL, SQLite |
-| **Cloud & Tools** | Git, GitHub, VS Code, Google Cloud |
-| **Data Analytics** | Power BI, Excel |
-| **AI & GenAI** | Prompt Engineering, LLM Applications, Generative AI |
-
----
-
-# 💼 Certifications
-
-- Oracle Certified Generative AI Professional
-- NPTEL Natural Language Processing
-- Introduction to Image Processing (Coursera)
-- Power BI Workshop (Coding Ninjas)
-- Data Analytics Webinar (IIT Kharagpur)
-
----
-
-# 📂 Engineering Ecosystem (Projects)
-
-## 🌦️ Agriculture Based Weather Prediction Model
-
-A smart weather prediction and crop recommendation platform featuring:
-
-- 7-Day Weather Forecast
-- Hourly Weather Analysis
-- Rainfall Prediction
-- Humidity Tracking
-- Crop Recommendation System
-- Open-Meteo API Integration
-- Machine Learning Backend
-
-**Tech Stack:** Flask, Python, HTML, CSS, JavaScript, SQLite
-
----
-
-## 🎵 AI Music Streaming Platform
-
-Database Management System project featuring:
-
-- Music Library Management
-- User Authentication
-- Playlist Management
-- AI-Based Music Recommendations
-- Analytics Dashboard
-
-**Tech Stack:** SQL, Python, Recommendation Systems
-
----
-
-## 🎨 Grayscale to Color Image Conversion
-
-Deep Learning application that automatically converts grayscale images into colored versions.
-
-**Tech Stack:** Python, OpenCV, Deep Learning
-
----
-
-## 🧩 Sudoku Solver Web App
-
-Interactive Sudoku Solver with:
-
-- Automatic Error Detection
-- Wrong Value Highlighting
-- Real-Time Validation
-- One-Click Solving
-
-**Tech Stack:** Flask, Python, HTML, CSS, JavaScript
-
----
-
-# 🏆 Hackathon Deployments & Milestones
-
-### 🚀 Amazon HackOn Participant
-- Competitive Programming
-- Problem Solving
-- Algorithm Design
-
-### 🏅 Oracle GenAI Certified
-- Prompt Engineering
-- Large Language Models
-- AI Applications
-
-### 📊 Power BI Workshop
-- Dashboard Development
+🚀 Building real-world intelligent systems using:
+- Python
+- React
+- SQL
+- APIs
 - Data Visualization
-- Business Intelligence
 
-### 🎯 Data Analytics Webinar (IIT Kharagpur)
-- Data Analytics Fundamentals
-- Industry Insights
-- Career Development
-
----
-
-# 📊 Real-Time Telemetry (GitHub Stats)
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=garvitrajpoot&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garvitrajpoot&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=garvitrajpoot&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=garvitrajpoot&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
-
-</div>
+🏆 Finalist — NASA Space Apps Challenge 2025  
+🏆 Selected — Microsoft Imagine Cup 2026  
 
 ---
 
 # 🌐 Connect With Me
 
-<div align="center">
+<p align="left">
+<a href="YOUR_LINKEDIN_LINK" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="45" />
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Garvit%20Rajpoot-4361ee?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/garvitrajpoot/)
+<a href="mailto:rajpootgarvit@gmail.com">
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="45" />
+</a>
 
-[![Email](https://img.shields.io/badge/Email-rajpootgarvit@gmail.com-7209B7?style=for-the-badge&logo=gmail)](mailto:rajpootgarvit@gmail.com)
-
-</div>
+<a href="YOUR_PORTFOLIO_LINK">
+<img align="center" src="https://skillicons.dev/icons?i=vercel" height="45" />
+</a>
+</p>
 
 ---
 
-<div align="center">
+# 💻 Tech Stack
 
-### ⚡ "Turning Data Into Decisions, Ideas Into Products, and Challenges Into Opportunities."
+<p align="center">
 
-</div>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,react,html,css,mysql,git,github,vscode" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data_Analytics-00C2FF?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🌾 SmartAgro
+> AI-powered agriculture recommendation system
+
+- Weather-based crop recommendations
+- Smart farming insights
+- AI + agriculture integration
+
+---
+
+## 📊 FoodTrends Analytics
+> Power BI + SQL analytics platform
+
+- Processed 130K+ food delivery records
+- Built interactive business dashboards
+- Customer behavior analysis
+
+---
+
+## 📋 TaskNova
+> Modern project management dashboard
+
+- Clean UI
+- Productivity-focused design
+- Interactive task tracking
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GarvitRajpoot&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarvitRajpoot&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=GarvitRajpoot&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GarvitRajpoot&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+# 📌 Pinned Repositories
+
+<p align="center">
+
+<a href="https://github.com/GarvitRajpoot/SmartAgro">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GarvitRajpoot&repo=SmartAgro&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/GarvitRajpoot/TaskNova">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GarvitRajpoot&repo=TaskNova&theme=tokyonight&hide_border=true"/>
+</a>
+
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+```python
+class GarvitRajpoot:
+
+    def __init__(self):
+        self.learning = [
+            "Advanced Machine Learning",
+            "Full Stack Development",
+            "AI Systems",
+            "Data Visualization"
+        ]
+
+    def future_goal(self):
+        return "Building intelligent scalable applications 🚀"
+````
+
+---
+
+# ⚡ Fun Fact
+
+```txt
+I love building projects that combine AI, Data, and Real-World Problem Solving.
+```
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+---
+
+# 🎯 Quote I Believe In
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+<p align="center">
+
+✨ Thanks for visiting my profile ✨
+
+</p>
+
+<!-- FOOTER -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+</p>
+```
