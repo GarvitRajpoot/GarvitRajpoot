@@ -1,15 +1,15 @@
-````md
-<!-- PROFILE BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Garvit%20Rajpoot&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20Data%20Science%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18"/>
-</p>
+# 👋 Hi, I'm Garvit Rajpoot
 
-<!-- TYPING ANIMATION -->
+<h3 align="center">
+AI • Data Science • Full Stack Developer
+</h3>
+
+---
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=AI+%26+Data+Science+Enthusiast;Full+Stack+Developer;Power+BI+%7C+Python+%7C+React;Building+Intelligent+Solutions;Oracle+Certified+Generative+AI+Professional" />
 </p>
 
-<!-- PROFILE VIEWS -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GarvitRajpoot&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
@@ -25,21 +25,24 @@
 🤖 Oracle Certified **Generative AI Professional**
 
 📊 Passionate about:
-- Artificial Intelligence
-- Data Analytics
-- Full Stack Development
-- Machine Learning
-- Power BI Dashboards
 
-🚀 Building real-world intelligent systems using:
-- Python
-- React
-- SQL
-- APIs
-- Data Visualization
+* Artificial Intelligence
+* Data Analytics
+* Full Stack Development
+* Machine Learning
+* Power BI Dashboards
 
-🏆 Finalist — NASA Space Apps Challenge 2025  
-🏆 Selected — Microsoft Imagine Cup 2026  
+🚀 Building intelligent real-world systems using:
+
+* Python
+* React
+* SQL
+* APIs
+* Data Visualization
+
+🏆 Finalist — NASA Space Apps Challenge 2025
+🏆 Selected — Microsoft Imagine Cup 2026
+🏆 Participant — Smart India Hackathon 2025
 
 ---
 
@@ -84,29 +87,20 @@
 # 🚀 Featured Projects
 
 ## 🌾 SmartAgro
-> AI-powered agriculture recommendation system
 
-- Weather-based crop recommendations
-- Smart farming insights
-- AI + agriculture integration
+AI-powered agriculture recommendation system using weather intelligence and crop prediction models.
 
 ---
 
 ## 📊 FoodTrends Analytics
-> Power BI + SQL analytics platform
 
-- Processed 130K+ food delivery records
-- Built interactive business dashboards
-- Customer behavior analysis
+Power BI + SQL analytics platform processing 130K+ food delivery records for customer behavior insights.
 
 ---
 
 ## 📋 TaskNova
-> Modern project management dashboard
 
-- Clean UI
-- Productivity-focused design
-- Interactive task tracking
+Modern project management dashboard with interactive task tracking and productivity-focused UI.
 
 ---
 
@@ -136,7 +130,7 @@
 
 ---
 
-# 📌 Pinned Repositories
+# 📌 Featured Repositories
 
 <p align="center">
 
@@ -160,14 +154,14 @@ class GarvitRajpoot:
     def __init__(self):
         self.learning = [
             "Advanced Machine Learning",
-            "Full Stack Development",
             "AI Systems",
+            "Modern Full Stack Development",
             "Data Visualization"
         ]
 
     def future_goal(self):
         return "Building intelligent scalable applications 🚀"
-````
+```
 
 ---
 
@@ -187,7 +181,7 @@ I love building projects that combine AI, Data, and Real-World Problem Solving.
 
 ---
 
-# 🎯 Quote I Believe In
+# 🎯 Developer Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
@@ -200,10 +194,3 @@ I love building projects that combine AI, Data, and Real-World Problem Solving.
 ✨ Thanks for visiting my profile ✨
 
 </p>
-
-<!-- FOOTER -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
-</p>
-```
